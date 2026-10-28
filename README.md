@@ -87,7 +87,7 @@ snake-cafe/
 ```
 
 ## 📸 Screenshots
-![Snake Café Gameplay](screenshots/gameplay.png)
+![Snake Café Gameplay](screenshot/gameplay.png)
 
 ## 📚 What I Learned
 
