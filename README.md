@@ -87,12 +87,7 @@ snake-cafe/
 ```
 
 ## 📸 Screenshots
-
-Add screenshots of your game to the `screenshots/` folder and display them here:
-
-```markdown
 ![Snake Café Gameplay](screenshots/gameplay.png)
-```
 
 ## 📚 What I Learned
 
